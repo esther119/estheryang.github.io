@@ -19,7 +19,7 @@ module.exports = {
   company: 'Minerva University',
   location: 'San Francisco, CA',
   email: 'yung-hsuan@uni.minerva.edu',
-  website: 'https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f',           // ex.'https://junhobaik.github.io'
+  website: 'https://cutt.ly/6X0MQ2Y',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/esther-yang1997/',                                                       
   facebook: 'https://www.facebook.com/lampmaa',                                                          
   instagram: '',                                                         
