@@ -4,7 +4,7 @@ module.exports = {
   description: `Thoughts, loosely organized.`,          // (* Required)
   author: `Esther`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://sherlockieee.github.io',                      // (* Required)
+  siteUrl: 'https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
@@ -18,12 +18,12 @@ module.exports = {
   name: 'Esther Yang',
   company: 'Minerva University',
   location: 'San Francisco, CA',
-  email: 'phuonghatrannguyen00@gmail.com',
-  website: '',           // ex.'https://junhobaik.github.io'
-  linkedin: 'https://www.linkedin.com/in/trannguyenphuongha/',                                                       
-  facebook: '',                                                          
+  email: 'yung-hsuan@uni.minerva.edu',
+  website: 'https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f',           // ex.'https://junhobaik.github.io'
+  linkedin: 'https://www.linkedin.com/in/esther-yang1997/',                                                       
+  facebook: 'https://www.facebook.com/lampmaa',                                                          
   instagram: '',                                                         
-  github: 'https://github.com/sherlockieee',                                                           
+  github: 'https://github.com/esther119',                                                           
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
