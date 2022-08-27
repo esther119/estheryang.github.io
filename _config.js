@@ -19,7 +19,7 @@ module.exports = {
   company: 'Minerva University',
   location: 'San Francisco, CA',
   email: 'yung-hsuan@uni.minerva.edu',
-  website: 'https://cutt.ly/6X0MQ2Y',           // ex.'https://junhobaik.github.io'
+  website: '',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/esther-yang1997/',                                                       
   facebook: 'https://www.facebook.com/lampmaa',                                                          
   instagram: '',                                                         
