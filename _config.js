@@ -14,7 +14,7 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Thoughts, loosely organized.',
+  comment: 'I am a funny idiot.',
   name: 'Esther Yang',
   company: 'Minerva University',
   location: 'San Francisco, CA',
