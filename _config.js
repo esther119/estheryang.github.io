@@ -1,8 +1,8 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Ha (sherlockieee)`,                           // (* Required)
+  title: `Esther Yang`,                           // (* Required)
   description: `Thoughts, loosely organized.`,          // (* Required)
-  author: `Ha`,                         // (* Required)
+  author: `Esther`,                         // (* Required)
   language: 'en',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
   siteUrl: 'https://sherlockieee.github.io',                      // (* Required)
     // ex.'https://junhobaik.github.io'
@@ -15,7 +15,7 @@ module.exports = {
 
   /** Home > Bio information*/
   comment: 'Thoughts, loosely organized.',
-  name: 'Ha Tran Nguyen Phuong',
+  name: 'Esther Yang',
   company: 'Minerva University',
   location: 'San Francisco, CA',
   email: 'phuonghatrannguyen00@gmail.com',
