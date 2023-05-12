@@ -5,7 +5,7 @@ tags:
 - growth
 - relationship
 ---
-<img src="patience2.png" alt="patience" width="80%">
+<img src="patience2.png" alt="patience" width="70%", height = "70%">
 
 
 
