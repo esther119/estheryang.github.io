@@ -5,7 +5,9 @@ tags:
 - growth
 - relationship
 ---
-<img src="patience.png", style="width:80%">
+<img src="patience.png" alt="patience" width="80%">
+
+
 
 Once, I pictured patience as a tranquil ocean wave on a brisk day, effortlessly embracing serenity. But the shifting tides in life have reshaped my understanding.
 I learn that you can still tear down, freak out, and fall apart, but you let it be. You let yourself be, and you let them be. You bypass those judgments, even if they might be right.
